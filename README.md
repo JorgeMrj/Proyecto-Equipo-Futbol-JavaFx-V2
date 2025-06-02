@@ -102,7 +102,6 @@ La vista de usuario normal proporciona acceso limitado:
 
 - Ángel Sánchez Gasanz
 - Jorge Morgado Giménez
-- Antoine López
 
 ## Licencia
 
